@@ -6,7 +6,7 @@
 
 <!-- css list -->
 
-  <link rel="stylesheet" href="https://npmcdn.com/leaflet@0.7.7/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@0.7.7/dist/leaflet.css" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
   <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700">
   <link rel="stylesheet" href="//fonts.googleapis.com/icon?family=Material+Icons">
